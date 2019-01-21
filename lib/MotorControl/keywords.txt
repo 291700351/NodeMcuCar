@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For L298N
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MotorControl	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+leftMove	KEYWORD2
+leftStop	KEYWORD2
+getLeftSpeed	KEYWORD2
+isLeftMoving	KEYWORD2
+rightMove	KEYWORD2
+rightStop	KEYWORD2
+getRightSpeed	KEYWORD2
+isRightMoving	KEYWORD2
+reset	KEYWORD2
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
